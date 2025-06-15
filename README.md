@@ -1,228 +1,273 @@
-# 👋 Hi, I'm Sejal Khade
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Master's+Student;AI+%26+ML+Engineer;Full-Stack+Data+Scientist;Building+Tomorrow's+Solutions" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4E9A06&center=true&vCenter=true&width=600&height=70&lines=Hi+👋+I'm+Sejal+Khade;AI+%26+ML+Engineer;Cocoa+Disease+Detective+🌱;Data+Science+Master's+Student" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sejjj&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sejjj?color=00d9ff&style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/sejjj?color=00d9ff&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </p>
+
+<h3 align="center">🎓 Data Science Master's Student | 🤖 AI/ML Engineer | 🌱 Agricultural Tech Innovator</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejjj&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sejjj?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sejjj?style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sejjj&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🚀 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280"/>
+## 🚀 Featured Project: AI-Powered Agriculture
+
+### 🌱 [Cocoa Leaf Disease Detection System](https://github.com/sejjj/cocoa-leaf-disease-detection)
+*Revolutionizing agriculture with AI-powered disease detection*
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+**🎯 Key Features:**
+- 🤖 **AI-Powered Detection** - EfficientNetB0 model with 90%+ accuracy
+- 📱 **Real-time Analysis** - Instant disease diagnosis
+- 📊 **Advanced Analytics** - Visual analysis & treatment calculator
+- 📄 **PDF Reports** - Comprehensive analysis documentation
+- 🔄 **Batch Processing** - Multiple image analysis
+- 📱 **Mobile-Friendly** - Responsive design for field use
+
 </div>
 
-```python
-class SejalKhade:
-    def __init__(self):
-        self.name = "Sejal Khade"
-        self.role = "Data Science Master's Student & AI Engineer"
-        self.location = "🌍 Available for Remote/Hybrid Opportunities"
-        self.education = "Master's in Data Science"
-        
-    def current_focus(self):
-        return [
-            "🧠 Advanced Machine Learning & Deep Learning",
-            "🤖 Computer Vision & NLP Applications", 
-            "☁️ MLOps & Cloud-Native Solutions",
-            "📊 Real-Time Data Processing & Analytics",
-            "🔬 AI-Powered Agricultural Solutions"
-        ]
-    
-    def technical_expertise(self):
-        return {
-            "languages": ["Python", "R", "SQL", "JavaScript"],
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "XGBoost"],
-            "big_data": ["Apache Spark", "Kafka", "Hadoop", "Databricks"],
-            "cloud_platforms": ["AWS", "Azure", "GCP"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "Snowflake"],
-            "devops": ["Docker", "Kubernetes", "GitHub Actions", "Jenkins"],
-            "visualization": ["Tableau", "Power BI", "Plotly", "D3.js"]
-        }
-    
-    def career_objective(self):
-        return """
-        Passionate about leveraging AI/ML to solve real-world challenges.
-        Seeking opportunities in Data Science, ML Engineering, or AI Research
-        where I can drive innovation and create meaningful impact.
-        """
+<br clear="right"/>
 
-# Initialize
-sejal = SejalKhade()
-print("Ready to transform data into insights! 🚀")
+---
+
+## 🌱 Currently Learning & Exploring
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4a29-b64e-7a2cde23a0f4.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="100"/>
+</p>
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=ml&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Open to Collaborate
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300"/>
+
+### 🔥 [Real-Time Twitter Sentiment Analysis](https://github.com/sejjj/twitter-sentiment-streaming)
+*Streaming analytics with Apache Spark*
+
+**🛠️ Tech Stack:**
+- Apache Spark Streaming
+- Kafka for real-time data
+- NLP with transformers
+- Real-time dashboards
+
+<br clear="left"/>
+
+---
+
+## 🆘 Seeking Mentorship
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
+
+### 🐳 **MLOps Pipelines with Docker & GitHub Actions**
+Looking for guidance on:
+- CI/CD for ML models
+- Container orchestration
+- Model deployment strategies
+- Monitoring & versioning
+
+---
+
+## 💬 Ask Me About
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,matplotlib,seaborn,jupyter,vscode,git,github,docker,linux,aws,gcp,mysql,postgresql,mongodb,r,tableau,powerbi&theme=dark" />
+</p>
+
+<div align="center">
+
+**🧠 Expertise Areas:**
+```
+🐍 Python  •  📊 SQL  •  🤖 Machine Learning  •  🧠 Deep Learning  •  📈 Data Visualization
+🔄 MLOps  •  📉 Time Series  •  💬 NLP  •  🔍 Computer Vision  •  ☁️ Big Data Analytics
 ```
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
-### 🌱 [AI-Powered Cocoa Leaf Disease Detection System](https://github.com/sejjj/cocoa-leaf-disease-detection)
-> **Impact**: Helping farmers prevent crop losses through early disease detection
-
-**🔧 Tech Stack**: `EfficientNetB0` `PyTorch` `Streamlit` `OpenCV` `Docker`
-
-- 🎯 **90%+ accuracy** in disease classification using deep learning
-- 📱 **Mobile-responsive** web application with real-time analysis
-- 📊 **Advanced features**: Batch processing, visual analysis, PDF reports
-- 🌐 **Production-ready** with deployment configurations
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://cocoa-disease-detector.streamlit.app)
-[![Repository](https://img.shields.io/badge/📱_Repository-000000?style=for-the-badge&logo=github)](https://github.com/sejjj/cocoa-leaf-disease-detection)
-
-### 📈 [Real-Time Twitter Sentiment Analysis Pipeline](https://github.com/sejjj/twitter-sentiment-streaming)
-> **Impact**: Processing millions of tweets for real-time market insights
-
-**🔧 Tech Stack**: `Apache Spark` `Kafka` `BERT` `Docker` `AWS`
-
-- ⚡ **Real-time processing** of 10K+ tweets per minute
-- 🧠 **BERT-based sentiment analysis** with 95% accuracy
-- 📊 **Interactive dashboards** for live sentiment tracking
-- ☁️ **Cloud-native architecture** with auto-scaling
-
-[![In Progress](https://img.shields.io/badge/🚧_In_Progress-FF6B6B?style=for-the-badge)](https://github.com/sejjj/twitter-sentiment-streaming)
 
 ---
 
-## 🛠️ Technical Arsenal
+## 📫 Let's Connect & Collaborate!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="400">
-</div>
-
-### 💻 Programming & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,js,html,css,git,github" />
+  <a href="mailto:sejalk300@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/sejallk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sejjj">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kaggle.com/sejallk">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
-### 🤖 AI/ML & Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+---
+
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,sql,javascript,html,css&theme=dark" />
+</p>
+
+### **AI/ML & Data Science**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
+### **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins&theme=dark" />
+</p>
+
+### **Databases & Big Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" alt="Apache Spark" />
 </p>
 
-### 📊 Databases & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" alt="Tableau" />
 </p>
+
+</div>
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sejjj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sejjj&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejjj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejjj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejjj&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejjj&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sejjj&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sejjj&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sejjj&theme=radical" alt="Profile Summary" />
 </div>
 
-### 📚 Currently Mastering
-- 🔥 **Advanced MLOps**: Docker, Kubernetes, CI/CD for ML models
-- ⚡ **Big Data Engineering**: Apache Spark, Kafka, real-time processing
-- 🌟 **Generative AI**: LLMs, RAG systems, prompt engineering
-- 📊 **Business Intelligence**: Power BI, advanced analytics
-- 💡 **AI Ethics**: Responsible AI development and deployment
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sejjj&theme=radical" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sejjj&theme=radical" alt="Most Commit Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sejjj&theme=radical" alt="Stats" />
+</div>
 
 ---
 
-## 💼 Open to Opportunities
+## 🎯 Current Focus Areas
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/><br>
+<b>🤖 AI in Agriculture</b><br>
+<sub>Disease Detection Systems</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/><br>
+<b>📊 Real-time Analytics</b><br>
+<sub>Streaming Data Processing</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="80"/><br>
+<b>🔄 MLOps</b><br>
+<sub>Production ML Systems</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Innovation Metrics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
+![Projects](https://img.shields.io/badge/Projects_Completed-15+-blue?style=for-the-badge&logo=github&logoColor=white)
+![Models](https://img.shields.io/badge/ML_Models_Built-25+-green?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Best_Model_Accuracy-94%25-brightgreen?style=for-the-badge&logo=pytorch&logoColor=white)
+![Data Processed](https://img.shields.io/badge/Data_Processed-100GB+-orange?style=for-the-badge&logo=databricks&logoColor=white)
+
 </div>
 
-```yaml
-Role_Interests:
-  - Data Scientist
-  - Machine Learning Engineer  
-  - AI Research Scientist
-  - MLOps Engineer
-  - Data Engineer
+---
 
-Work_Preferences:
-  - Remote/Hybrid opportunities
-  - Collaborative team environment
-  - Innovation-driven projects
-  - Social impact initiatives
-  - Continuous learning culture
+## 🎯 Fun Facts & Personal Touch
 
-Availability: Immediate (upon graduation)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+</div>
+
+### 😄 Developer Humor
+> **"There are only 10 types of people in the world:**  
+> *Those who understand binary and those who don't."* 🤓
+
+> **"Python is the only snake I trust with my life."** 🐍💻
+
+### 🎯 My Coding Philosophy
+```python
+def life_motto():
+    return "Code with passion, debug with patience, deploy with confidence!"
+
+def dream_goal():
+    return "Making agriculture smarter, one algorithm at a time 🌱🤖"
 ```
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644509-2a8b3d86-52e8-435e-a76c-fa5b00ecade0.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="mailto:sejalk300@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/sejallk">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sejjj">
-    <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </p>
-
----
-
-## 💡 Fun Facts & Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</div>
-
-<p align="center">
-  <em>"In the world of data, every pattern tells a story, and every algorithm opens a door to the future." 🚀</em>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
-</div>
