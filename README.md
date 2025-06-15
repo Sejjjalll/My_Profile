@@ -1,291 +1,228 @@
-# 🚀 Sejal Khade | AI Engineer & Data Scientist
+# 👋 Hi, I'm Sejal Khade
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Building+Next-Gen+AI+Systems;MLOps+%26+Production+ML+Expert;Real-time+ML+%26+Edge+Computing;Generative+AI+%26+LLM+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Master's+Student;AI+%26+ML+Engineer;Full-Stack+Data+Scientist;Building+Tomorrow's+Solutions" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejjj&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sejjj?color=00d9ff&style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sejjj?color=00d9ff&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+</p>
 
 ---
 
-## 🧠 Technical Expertise
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280"/>
+</div>
 
-### 🔥 Current Tech Stack (2025)
-```yaml
-AI/ML Engineering:
-  - PyTorch 2.0+ | TensorFlow 2.x
-  - Transformers | Diffusers | PEFT
-  - CUDA | TensorRT | ONNX
-  - Triton Inference Server
-
-MLOps & Production:
-  - Kubernetes | Docker | Helm
-  - MLflow | Weights & Biases
-  - Apache Airflow | Prefect
-  - Ray | Dask | Celery
-
-Real-time Systems:
-  - Apache Kafka | Redis Streams
-  - FastAPI | gRPC | WebSockets
-  - Apache Spark Streaming
-  - Flink | Storm
-```
-
-</td>
-<td width="50%">
-
-### ⚡ Cutting-edge Specializations
 ```python
-class AIEngineer:
+class SejalKhade:
     def __init__(self):
-        self.current_focus = {
-            "🤖 Generative AI": [
-                "Fine-tuning LLMs (LoRA, QLoRA)",
-                "RAG Pipelines", "Vector DBs",
-                "Multimodal AI", "AI Agents"
-            ],
-            "🚀 MLOps": [
-                "Model Versioning", "A/B Testing",
-                "Feature Stores", "Model Monitoring",
-                "Distributed Training"
-            ],
-            "⚡ Performance": [
-                "Model Quantization", "Edge Deployment",
-                "GPU Optimization", "Inference Scaling"
-            ]
+        self.name = "Sejal Khade"
+        self.role = "Data Science Master's Student & AI Engineer"
+        self.location = "🌍 Available for Remote/Hybrid Opportunities"
+        self.education = "Master's in Data Science"
+        
+    def current_focus(self):
+        return [
+            "🧠 Advanced Machine Learning & Deep Learning",
+            "🤖 Computer Vision & NLP Applications", 
+            "☁️ MLOps & Cloud-Native Solutions",
+            "📊 Real-Time Data Processing & Analytics",
+            "🔬 AI-Powered Agricultural Solutions"
+        ]
+    
+    def technical_expertise(self):
+        return {
+            "languages": ["Python", "R", "SQL", "JavaScript"],
+            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "XGBoost"],
+            "big_data": ["Apache Spark", "Kafka", "Hadoop", "Databricks"],
+            "cloud_platforms": ["AWS", "Azure", "GCP"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "Snowflake"],
+            "devops": ["Docker", "Kubernetes", "GitHub Actions", "Jenkins"],
+            "visualization": ["Tableau", "Power BI", "Plotly", "D3.js"]
         }
+    
+    def career_objective(self):
+        return """
+        Passionate about leveraging AI/ML to solve real-world challenges.
+        Seeking opportunities in Data Science, ML Engineering, or AI Research
+        where I can drive innovation and create meaningful impact.
+        """
+
+# Initialize
+sejal = SejalKhade()
+print("Ready to transform data into insights! 🚀")
 ```
 
-</td>
-</tr>
-</table>
+---
 
-## 🏗️ System Architecture & Infrastructure
+## 🎯 Featured Projects
 
 <div align="center">
-
-**ML Pipeline Architecture**
-
-```
-┌─────────────┐    ┌──────────────┐    ┌─────────────┐    ┌──────────────┐
-│ Data Sources│───▶│Stream Process│───▶│Feature Store│───▶│Model Training│
-└─────────────┘    └──────────────┘    └─────────────┘    └──────────────┘
-                                                                   │
-┌─────────────┐    ┌──────────────┐    ┌─────────────┐    ┌──────────────┐
-│   Clients   │◀───│  API Gateway │◀───│ Inference   │◀───│Model Registry│
-└─────────────┘    └──────────────┘    └─────────────┘    └──────────────┘
-                                               │
-                           ┌──────────────────────────────┐
-                           │     MLOps Pipeline           │
-                           │  ┌────────────────────────┐  │
-                           │  │ Model Validation       │  │
-                           │  │ A/B Testing           │  │
-                           │  │ Production Deploy     │  │
-                           │  │ Monitor & Alert       │  │
-                           │  └────────────────────────┘  │
-                           └──────────────────────────────┘
-```
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 🛠️ Advanced Toolchain
+### 🌱 [AI-Powered Cocoa Leaf Disease Detection System](https://github.com/sejjj/cocoa-leaf-disease-detection)
+> **Impact**: Helping farmers prevent crop losses through early disease detection
+
+**🔧 Tech Stack**: `EfficientNetB0` `PyTorch` `Streamlit` `OpenCV` `Docker`
+
+- 🎯 **90%+ accuracy** in disease classification using deep learning
+- 📱 **Mobile-responsive** web application with real-time analysis
+- 📊 **Advanced features**: Batch processing, visual analysis, PDF reports
+- 🌐 **Production-ready** with deployment configurations
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge)](https://cocoa-disease-detector.streamlit.app)
+[![Repository](https://img.shields.io/badge/📱_Repository-000000?style=for-the-badge&logo=github)](https://github.com/sejjj/cocoa-leaf-disease-detection)
+
+### 📈 [Real-Time Twitter Sentiment Analysis Pipeline](https://github.com/sejjj/twitter-sentiment-streaming)
+> **Impact**: Processing millions of tweets for real-time market insights
+
+**🔧 Tech Stack**: `Apache Spark` `Kafka` `BERT` `Docker` `AWS`
+
+- ⚡ **Real-time processing** of 10K+ tweets per minute
+- 🧠 **BERT-based sentiment analysis** with 95% accuracy
+- 📊 **Interactive dashboards** for live sentiment tracking
+- ☁️ **Cloud-native architecture** with auto-scaling
+
+[![In Progress](https://img.shields.io/badge/🚧_In_Progress-FF6B6B?style=for-the-badge)](https://github.com/sejjj/twitter-sentiment-streaming)
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
-
-| **Domain** | **Technologies** | **Expertise Level** |
-|:---:|:---:|:---:|
-| **🧠 AI/ML Frameworks** | PyTorch, TensorFlow, JAX, Hugging Face | ![Expert](https://img.shields.io/badge/-Expert-00D4AA?style=flat) |
-| **🚀 MLOps Platforms** | MLflow, Kubeflow, Vertex AI, SageMaker | ![Advanced](https://img.shields.io/badge/-Advanced-4CAF50?style=flat) |
-| **☁️ Cloud Native** | Kubernetes, Docker, Helm, Istio | ![Advanced](https://img.shields.io/badge/-Advanced-4CAF50?style=flat) |
-| **📊 Data Engineering** | Spark, Kafka, Airflow, dbt, Snowflake | ![Expert](https://img.shields.io/badge/-Expert-00D4AA?style=flat) |
-| **🔍 Vector Databases** | Pinecone, Weaviate, Qdrant, Chroma | ![Proficient](https://img.shields.io/badge/-Proficient-FFC107?style=flat) |
-| **⚡ Optimization** | TensorRT, ONNX, Triton, CUDA | ![Advanced](https://img.shields.io/badge/-Advanced-4CAF50?style=flat) |
-
-### Core Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="400">
 </div>
 
-## 🚀 Featured Projects
+### 💻 Programming & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,js,html,css,git,github" />
+</p>
 
-### 🤖 Production-Ready LLM Fine-tuning Pipeline
-```yaml
-Repository: llm-finetuning-pipeline
-Architecture: Distributed training with LoRA/QLoRA
-Scale: Multi-GPU training on 7B+ parameter models
-Tech Stack: PyTorch, Transformers, DeepSpeed, Weights & Biases
-Key Features: 
-  - Automated hyperparameter tuning
-  - Model versioning & experiment tracking
-  - Distributed inference with Ray Serve
-  - Custom evaluation metrics
-Performance: 40% improvement in domain tasks, 3x faster inference
-```
+### 🤖 AI/ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter" />
+</p>
 
-### 🌱 Real-time Computer Vision for Agriculture
-```yaml
-Repository: agri-vision-system
-Architecture: Edge-cloud hybrid with Kubernetes
-Scale: Processing 1M+ images daily
-Tech Stack: YOLOv8, TensorRT, FastAPI, Redis, Kafka
-Key Features:
-  - Real-time disease detection
-  - Edge deployment on NVIDIA Jetson
-  - Automated model retraining
-  - Multi-tenant SaaS platform
-Performance: 90%+ accuracy, 50ms inference latency
-```
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" alt="Apache Spark" />
+</p>
 
-### 📈 High-Frequency Trading ML System
-```yaml
-Repository: hft-ml-system
-Architecture: Low-latency microservices
-Scale: 100k+ predictions per second
-Tech Stack: Rust, Python, ClickHouse, Apache Kafka
-Key Features:
-  - Sub-millisecond inference
-  - Online learning capabilities
-  - Risk management integration
-  - Real-time feature engineering
-Performance: 15% improvement in trading accuracy
-```
+### 📊 Databases & Visualization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" alt="Tableau" />
+</p>
 
-## 📊 Technical Metrics & GitHub Analytics
+---
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Production Performance
-```python
-production_metrics = {
-    "model_latency": "< 50ms P99",
-    "throughput": "10k+ requests/sec",
-    "uptime": "99.9% SLA",
-    "cost_optimization": "60% reduction",
-    "model_accuracy": "95%+ production"
-}
-```
-
-### 🔧 Infrastructure Scale
-```yaml
-Container Orchestration:
-  - 50+ microservices
-  - 100+ pods across 10 nodes
-  - Auto-scaling: 10x peak traffic
-
-Data Pipeline:
-  - 1TB+ daily processing
-  - Real-time streaming
-  - Multi-region deployment
-```
-
-</td>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejjj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Production%20Code%20Stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sejjj&theme=dark&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA)
-
-</td>
-</tr>
-</table>
-
-## 🔬 Research & Innovation
-
-### 📚 Recent Publications & Research
-| **Title** | **Venue** | **Impact** |
-|:---:|:---:|:---:|
-| "Efficient Fine-tuning of Large Language Models" | arXiv 2024 | 500+ citations |
-| "Real-time ML for Edge Computing" | MLSys 2024 | Best Paper Award |
-| "Distributed Training Optimization" | NeurIPS 2024 | Oral Presentation |
-
-### 🧪 Current Research Focus
-```python
-research_areas = {
-    "multimodal_llms": {
-        "focus": "Vision-Language Models",
-        "techniques": ["CLIP", "BLIP-2", "LLaVA"],
-        "applications": ["Medical imaging", "Autonomous systems"]
-    },
-    "model_compression": {
-        "methods": ["Quantization", "Pruning", "Distillation"],
-        "achievements": "10x model size reduction",
-        "deployment": "Edge devices, Mobile"
-    },
-    "federated_learning": {
-        "scale": "1000+ edge nodes",
-        "privacy": "Differential privacy",
-        "frameworks": ["FedML", "PySyft"]
-    }
-}
-```
-
-## 🌟 Advanced Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejjj&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Production%20Languages)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sejjj&theme=github-compact&hide_border=true&area=true&color=00D4AA&line=00D4AA&point=FFFFFF)
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🎯 Open Source Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sejjj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-### 🏆 Notable Contributions
-- **PyTorch**: Optimized distributed training modules (+2.5k stars)
-- **Transformers**: Added support for custom attention mechanisms (+1.8k stars)
-- **MLflow**: Contributed model registry improvements (+900 stars)
-- **Apache Airflow**: Enhanced ML pipeline operators (+1.2k stars)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejjj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### 📊 Community Engagement
-![Followers](https://img.shields.io/github/followers/sejjj?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/sejjj?label=Total%20Stars&style=social)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejjj&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-## 🏢 Professional Experience Highlights
+---
 
-```yaml
-Current Role: Senior AI Engineer
-Experience: 3+ years in production ML systems
-Team Leadership: Led 5+ engineers on ML infrastructure
-Industry Impact: 
-  - Deployed models serving 10M+ users daily
-  - Reduced inference costs by 60%
-  - Improved model accuracy by 25%
-  - Built ML platforms used by 100+ data scientists
-
-Specializations:
-  - Large-scale ML system design
-  - Real-time inference optimization
-  - MLOps pipeline architecture
-  - Cross-functional team leadership
-```
-
-## 📡 Let's Connect & Collaborate
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalk300@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejallk)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sejjj)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+  <img src="https://github-profile-trophy.vercel.app/?username=sejjj&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
+### 📚 Currently Mastering
+- 🔥 **Advanced MLOps**: Docker, Kubernetes, CI/CD for ML models
+- ⚡ **Big Data Engineering**: Apache Spark, Kafka, real-time processing
+- 🌟 **Generative AI**: LLMs, RAG systems, prompt engineering
+- 📊 **Business Intelligence**: Power BI, advanced analytics
+- 💡 **AI Ethics**: Responsible AI development and deployment
+
+---
+
+## 💼 Open to Opportunities
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+</div>
+
+```yaml
+Role_Interests:
+  - Data Scientist
+  - Machine Learning Engineer  
+  - AI Research Scientist
+  - MLOps Engineer
+  - Data Engineer
+
+Work_Preferences:
+  - Remote/Hybrid opportunities
+  - Collaborative team environment
+  - Innovation-driven projects
+  - Social impact initiatives
+  - Continuous learning culture
+
+Availability: Immediate (upon graduation)
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644509-2a8b3d86-52e8-435e-a76c-fa5b00ecade0.gif" width="400">
+</div>
+
+<p align="center">
+  <a href="mailto:sejalk300@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sejallk">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sejjj">
+    <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 💡 Fun Facts & Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
+<p align="center">
+  <em>"In the world of data, every pattern tells a story, and every algorithm opens a door to the future." 🚀</em>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sejjj&color=00d4aa&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <em>"Building the future of AI, one model at a time" 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </div>
