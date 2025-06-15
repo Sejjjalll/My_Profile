@@ -25,6 +25,8 @@ class SejalKhade:
         self.role = "Data Science Master's Student & AI Engineer"
         self.location = "🌍 Available for Remote/Hybrid Opportunities"
         self.education = "Master's in Data Science"
+        self.experience = "2+ years in Data Science and AI projects"
+        self.hobbies = ["📚 Reading Tech Blogs", "🎨 Digital Art", "🌱 Gardening"]
         
     def current_focus(self):
         return [
@@ -47,11 +49,7 @@ class SejalKhade:
         }
     
     def career_objective(self):
-        return """
-        Passionate about leveraging AI/ML to solve real-world challenges.
-        Seeking opportunities in Data Science, ML Engineering, or AI Research
-        where I can drive innovation and create meaningful impact.
-        """
+        return "Passionate about leveraging AI/ML to solve real-world challenges. Seeking opportunities in Data Science, ML Engineering, or AI Research where I can drive innovation and create meaningful impact."
 
 # Initialize
 sejal = SejalKhade()
