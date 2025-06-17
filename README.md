@@ -34,8 +34,8 @@
 
 | 🏆 Project | 🛠️ Tech Stack | 📊 Status |
 |------------|---------------|-----------|
-| [**🌱 Cocoa Leaf Disease Detector**](https://github.com/sejjj/cocoa-leaf-disease-detection) | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live |
-| [**📱 Twitter Sentiment Analysis**](https://github.com/sejjj/twitter-sentiment-streaming) | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress |
+| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live |
+| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress |
 
 </div>
 
