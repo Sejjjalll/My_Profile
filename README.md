@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### 🧑‍💻 About Me
 
@@ -32,10 +32,13 @@
 
 <div align="center">
 
-| 🏆 Project | 🛠️ Tech Stack | 📊 Status |
-|------------|---------------|-----------|
-| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live |
-| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress |
+### 🌱 Cocoa Leaf Disease Detector
+**Tech Stack:** PyTorch • EfficientNet • Streamlit • OpenCV  
+**Status:** 🚀 Live
+
+### 📱 Twitter Sentiment Analysis  
+**Tech Stack:** Apache Spark • NLP • Real-time Streaming  
+**Status:** 🔧 In Progress
 
 </div>
 
@@ -120,7 +123,8 @@ me.say_hi()
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sejalk300@gmail.com)
+**📧 Email:** sejalk300@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejallk)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sejjj)
 
@@ -132,10 +136,6 @@ me.say_hi()
 
 ### 💭 Quote of the Day
 *"Data is the new oil, but machine learning is the refinery."*
-
-<br>
-
-![Snake animation](https://github.com/sejjj/sejjj/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
