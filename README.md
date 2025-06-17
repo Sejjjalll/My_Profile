@@ -15,6 +15,7 @@
 <img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/264642/screenshots/3708067/girlcode.gif">
 
 
+
 ### 🧑‍💻 About Me
 
 - 🎓 **Data Science Master's Student** passionate about AI & ML
