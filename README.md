@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/264642/screenshots/3708067/girlcode.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 🧑‍💻 About Me
 
