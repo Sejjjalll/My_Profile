@@ -32,13 +32,10 @@
 
 <div align="center">
 
-### 🌱 Cocoa Leaf Disease Detector
-**Tech Stack:** PyTorch • EfficientNet • Streamlit • OpenCV  
-**Status:** 🚀 Live
-
-### 📱 Twitter Sentiment Analysis  
-**Tech Stack:** Apache Spark • NLP • Real-time Streaming  
-**Status:** 🔧 In Progress
+| 🏆 Project | 🛠️ Tech Stack | 📊 Status |
+|------------|---------------|-----------|
+| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live |
+| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress |
 
 </div>
 
@@ -123,10 +120,9 @@ me.say_hi()
 
 <div align="center">
 
-**📧 Email:** sejalk300@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sejallk)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sejjj)
+<a href="mailto:sejalk300@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://linkedin.com/in/sejallk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/sejjj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
