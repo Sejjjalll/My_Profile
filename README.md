@@ -34,8 +34,8 @@
 
 | 🏆 Project | 🛠️ Tech Stack | 📊 Status | 🔗 Link |
 |------------|---------------|-----------|---------|
-| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live | [View Project](https://github.com/Sejjjalll/cocoa-disease-detection) |
-| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress | [View Project](https://github.com/Sejjjalll/twitter-sentiment-analysis) |
+| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live | [View Project](https://github.com/Sejjjalll/YOUR_REPO_NAME_HERE) |
+| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress | [View Project](https://github.com/Sejjjalll/YOUR_REPO_NAME_HERE) |
 
 </div>
 
@@ -46,12 +46,13 @@
 <div align="center">
 
 ### 🔥 Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=cocoa-disease-detection&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/cocoa-disease-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=twitter-sentiment-analysis&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/twitter-sentiment-analysis)
+<!-- Replace 'YOUR_REPO_NAME_HERE' with your actual repository names -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/YOUR_REPO_NAME_HERE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/YOUR_REPO_NAME_HERE)
 
 ### 🎯 More Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=machine-learning-projects&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/machine-learning-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=data-visualization-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/data-visualization-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/YOUR_REPO_NAME_HERE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/YOUR_REPO_NAME_HERE)
 
 </div>
 
