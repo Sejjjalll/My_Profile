@@ -30,15 +30,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sejjjalll&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -60,9 +51,6 @@
 ### 🔥 Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=Coco-Leaf-Disease-Dector&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=Google-Vision-OCR-main&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/Google-Vision-OCR-main)
-
-### 🎯 More Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=Medical-OCR-Data-Extraction-master&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/Medical-OCR-Data-Extraction-master)
 
 </div>
 
@@ -111,22 +99,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sejjjalll&theme=tokyonight&hide_border=true" />
-
-### 📈 Contribution Graph
-[![Sejal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sejjjalll&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
