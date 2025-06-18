@@ -21,7 +21,6 @@
 - 🔭 Currently working on **[Cocoa Leaf Disease Detection Web App](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)**
 - 🌱 Learning **Power BI Advanced Visualization, Apache Spark & PySpark, Docker**
 - 👯 Looking to collaborate on **[Google Vision OCR](https://github.com/Sejjjalll/Google-Vision-OCR-main)**
-- 🤝 Seeking help with **[Medical OCR Data Extraction](https://github.com/Sejjjalll/Medical-OCR-Data-Extraction-master)**
 - 💬 Ask me about **Python • SQL • Power BI • Tableau • Streamlit • PyTorch • MLOps**
 - 📫 Reach me at **sejalk300@gmail.com**
 - ⚡ Fun fact: **Python is the only snake I trust with my life!** 🐍
@@ -152,8 +151,6 @@ print(me.get_collaboration_interests())
 ### 💭 Quote of the Day
 *"Data is the new oil, but machine learning is the refinery that transforms it into insights."*
 
-### 🤝 Open to Collaboration
-**Looking to collaborate on Google Vision OCR projects and seeking help with Medical OCR Data Extraction!**
 
 <br>
 
