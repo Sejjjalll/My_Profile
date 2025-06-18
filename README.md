@@ -44,18 +44,6 @@
 
 ---
 
-## 📁 Repository Highlights
-
-<div align="center">
-
-### 🔥 Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=Coco-Leaf-Disease-Dector&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=Google-Vision-OCR-main&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/Google-Vision-OCR-main)
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
