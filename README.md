@@ -6,7 +6,7 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sejjj&color=0e75b6&style=for-the-badge)](https://github.com/sejjj)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6&style=for-the-badge)](https://github.com/Sejjjalll)
 
 </div>
 
@@ -32,10 +32,26 @@
 
 <div align="center">
 
-| 🏆 Project | 🛠️ Tech Stack | 📊 Status |
-|------------|---------------|-----------|
-| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live |
-| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress |
+| 🏆 Project | 🛠️ Tech Stack | 📊 Status | 🔗 Link |
+|------------|---------------|-----------|---------|
+| **🌱 Cocoa Leaf Disease Detector** | `PyTorch` `EfficientNet` `Streamlit` `OpenCV` | 🚀 Live | [View Project](https://github.com/Sejjjalll/cocoa-disease-detection) |
+| **📱 Twitter Sentiment Analysis** | `Apache Spark` `NLP` `Real-time Streaming` | 🔧 In Progress | [View Project](https://github.com/Sejjjalll/twitter-sentiment-analysis) |
+
+</div>
+
+---
+
+## 📁 Repository Highlights
+
+<div align="center">
+
+### 🔥 Recent Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=cocoa-disease-detection&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/cocoa-disease-detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=twitter-sentiment-analysis&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/twitter-sentiment-analysis)
+
+### 🎯 More Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=machine-learning-projects&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/machine-learning-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjjalll&repo=data-visualization-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Sejjjalll/data-visualization-dashboard)
 
 </div>
 
@@ -86,10 +102,10 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sejjj&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sejjj&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sejjjalll&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejjj&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -120,9 +136,9 @@ me.say_hi()
 
 <div align="center">
 
-<a href="mailto:sejalk300@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=new&to=sejalk300@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://linkedin.com/in/sejallk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/sejjj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/Sejjjalll"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
