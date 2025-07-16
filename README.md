@@ -1,88 +1,103 @@
 <div align="center">
   
-# 👋 Hi, I'm Sejal Khade  
-### Data Scientist | Machine Learning Engineer | Data & Cloud Architect  
+# Hi there! I'm Sejal Khade 👋  
+🚀 Aspiring Data Scientist | ML Engineer | Data Engineer | BI Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3F7FBF&center=true&vCenter=true&width=700&lines=Bridging+Data+Science+%26+Engineering;Building+ML+Pipelines+&+BI+Insights;Cloud-First+&+MLOps+Advocate;Driven+by+Innovation" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F7FBF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Building+ML-powered+solutions;Visualizing+business+insights;Solving+real-world+problems+with+code" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6)]  
-[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=github&style=for-the-badge)]  
+[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6&style=for-the-badge)](https://github.com/Sejjjalll)
+[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=GitHub&style=for-the-badge)](https://github.com/Sejjjalll)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-A versatile **Data Scientist & Cloud Architect** who designs scalable ML systems, orchestrates end-to-end data pipelines, and delivers business-facing BI dashboards. I am passionate about using LLMs, MLOps, and cloud-native patterns to maximize impact and drive innovation.
-
-- 🌱 Currently mastering: **MLFlow, Airflow, Kubeflow, AWS/GCP/Azure**, **Docker+Kubernetes**, **LLM Integration**
-- 💡 Advocate for: **Event-driven architecture**, **Data observability**, infrastructure as code (Terraform/ARM)
-- 📨 Connect with me: **sejalk300@gmail.com**
-
----
-
-## 🚀 Core Projects
-
-| Name | Tech Stack | Highlights |
-|------|------------|------------|
-| **Cocoa Leaf Disease Detector** | PyTorch • FastAPI • Streamlit • Docker | From CV model training to API containerization and UI deployment |
-| **Sales Power BI Dashboard** | Power BI • SQL Server • DAX | Enterprise-grade dashboard with KPIs, drill-downs, and row-level security |
-| **PySpark ETL Pipeline** | PySpark • Hadoop • AWS S3 • Airflow | Production ETL with orchestration, monitoring, and failure recovery |
-| **Customer RFM Clustering** | Python • Pandas • MLflow • scikit-learn | RFM segmentation with hyperparameter tuning and pipeline tracking |
-| **COVID API Real-Time Dashboard** | Python • REST API • Power BI Direct Query | Streaming ingestion of API data and dynamic BI refresh |
-| **Movie Recommender Web App** | Python • scikit-learn • Streamlit • Docker | Collaborative filtering with service deployment |
-| **End-to-End Model Deployment** | FastAPI • Docker • Heroku | ML model ship via containerized web service |
-
-🔗 [Explore all on GitHub](https://github.com/Sejjjalll?tab=repositories)
+- 🎓 Graduate student focused on **Data Science, ML, and Engineering Applications**
+- 💡 Passionate about solving problems with **Data + Code + Cloud**
+- 🛠 Currently building: **[Cocoa Leaf Disease Detection](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)**, **Data Engineering Pipelines**, and **Power BI Dashboards**
+- 🧠 Constantly exploring: **LLMs**, **AutoML**, **Spark**, **Azure Data Factory**, **Prompt Engineering**
+- ✨ Key tools: `Python`, `SQL`, `Power BI`, `PySpark`, `Docker`, `Streamlit`, `MLFlow`
+- 📫 Reach me at: **sejalk300@gmail.com**
 
 ---
 
-## ⚙️ Advanced Skills Matrix
+## 🚀 Highlight Projects
 
-### 🧠 Machine Learning & Data Science
-- `scikit-learn`, `PyTorch`, `TensorFlow`, `XGBoost`, `Optuna`
-- Hyperparameter tuning, pipeline serialization (MLflow, joblib)
-- NLP & LLM prompt design
+| 📌 Project | 🔧 Stack | 💡 Description |
+|-----------|---------|----------------|
+| **Cocoa Leaf Disease Detector** | PyTorch, OpenCV, Streamlit, CNN | Web app for detecting leaf diseases with image uploads |
+| **Power BI Sales Dashboard** | Power BI, DAX, Excel | Interactive dashboard for analyzing sales KPIs, revenue, trends |
+| **PySpark Data Engineering Pipeline** | PySpark, AWS S3, Hadoop | ETL pipeline to ingest, clean, and transform big data from source to warehouse |
+| **Customer Segmentation** | Python, Pandas, ML, RFM | Segmenting customers using RFM analysis and clustering |
+| **COVID-19 API Dashboard** | Python, Power BI, REST API | Live-updating dashboard to track cases, recovery, and trends |
+| **Movie Recommendation Engine** | Python, scikit-learn, Streamlit | Built from scratch using collaborative filtering & visualized via web UI |
+| **ML Model Deployment** | FastAPI, Docker, Heroku | End-to-end ML deployment pipeline for real-time predictions |
 
-### 🛠️ Data Engineering & Big Data
-- `PySpark`, `Kafka`, `Hadoop`, `Delta Lake`
-- DAG orchestration: `Airflow`, `Kubeflow`
-- Monitoring with `Prometheus`, `Grafana`
-
-### 💻 Cloud Architecture & DevOps
-- AWS (S3, Lambda, ECS, Glue), Azure Data Factory, GCP (BigQuery)
-- Containers: `Docker`, orchestration: `Kubernetes`
-- Infrastructure as code: `Terraform`, `Azure ARM`, `GitHub Actions`
-
-### 📊 Business Intelligence & Analytics
-- `Power BI`, `Tableau`, `DAX`, `MDX`, `SSIS`, `SSRS`
-- Embedded analytics, KPI modeling, row-level security (RLS)
-
-### 🚀 MLOps & Observability
-- `MLflow`, `TensorBoard`, `Kubeflow`, `Argo`
-- CI/CD pipelines for model training and deployment
-- Data & model drift detection, governance, lineage tracking
+🔗 View all my repos: [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
 
 ---
 
-## 📈 GitHub Statistics
+## 💼 Advanced Tech Skills
+
+### 🧠 Data Science / Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)  
+![XGBoost](https://img.shields.io/badge/XGBoost-A01920?style=flat-square)
+
+### 🔍 Data Analytics & Visualization  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+### 🔧 Data Engineering / Big Data  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark)  
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)  
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow)  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop)
+
+### 🗄️ Databases & Cloud  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
+
+### 🚀 MLOps & DevOps  
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)  
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark&hide_rank=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=github_dark&hide=jupyter%20notebook" height="160"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-## 🧠 Sejal’s Tech DNA <code> class SejalKhade:</code>
+## 🧠 Fun Python-y Snippet
 
 ```python
 class SejalKhade:
     def __init__(self):
-        self.roles = ['Data Scientist','ML Engineer','Data Engineer','Cloud Architect']
-        self.tools = ['Python','Spark','SQL','Airflow','Power BI','Docker','K8s','MLflow','Terraform']
-        self.focus = ['Scalable ML', 'BI-driven Insights', 'Automation', 'Observability']
-    
-    def mission(self):
-        return f"Crafting scalable data solutions using {', '.join(self.tools)} that drive real business value."
+        self.roles = ['Data Scientist', 'Data Engineer', 'ML Developer']
+        self.tools = ['Python', 'Power BI', 'Spark', 'SQL', 'Docker', 'Azure']
+        self.learning = ['Advanced BI', 'MLOps', 'Prompt Engineering']
+
+    def build(self):
+        return f"Using {', '.join(self.tools)} to solve real-world data challenges."
+
+me = SejalKhade()
+print(me.build())
