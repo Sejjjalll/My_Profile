@@ -1,84 +1,103 @@
 <div align="center">
   
-# Hi there! I'm Sejal Khade 👋
+# Hi there! I'm Sejal Khade 👋  
+🚀 Aspiring Data Scientist | ML Engineer | Data Engineer | BI Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F7FBF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Data+Engineer;Machine+Learning+Enthusiast;Python+Developer;AI+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F7FBF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Building+ML-powered+solutions;Visualizing+business+insights;Solving+real-world+problems+with+code" alt="Typing SVG" />
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6&style=for-the-badge)]
-[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=GitHub&style=for-the-badge)]
+[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6&style=for-the-badge)](https://github.com/Sejjjalll)
+[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=GitHub&style=for-the-badge)](https://github.com/Sejjjalll)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Aspiring **Data Scientist & Data Engineer** with strong skills in ML, BI, and Cloud  
-- 🔭 Currently building **Cocoa Leaf Disease Detection Web App**  
-- 🌱 Actively learning **Power BI Advanced Reporting**, **Apache Spark (PySpark)**, **Docker**, **Azure Data Services**  
-- 👯 Open to collaborating on data-driven and ML-focused projects  
-- 💬 Skills: Python • SQL • Power BI • Azure • Spark • PyTorch • scikit-learn • Tableau  
-- 📫 Reach me via **sejalk300@gmail.com**  
-- ⚡ Fun fact: **“Python is the only snake I trust!”**
-
----
-
-## 🚀 Projects & Contributions
-
-Here are key projects from my GitHub—focused on Data Science, Data Engineering, and ML:
-
-| 🏆 Project | 🛠️ Tech Stack | 📌 Highlights |
-|-----------|----------------|---------------|
-| **Cocoa Leaf Disease Detector** | Python • PyTorch • Streamlit • OpenCV | Image classification app for plant disease detection |
-| **Sales Analysis Dashboard** | Power BI • SQL Server • DAX | Interactive dashboard tracking KPIs—revenue, trends, region analysis |
-| **Spark ETL Pipeline** | PySpark • Hadoop • AWS S3 | Large data ingestion, clean-up, and transformation pipelines at scale |
-| **Customer Segmentation (RFM)** | Python • Pandas • scikit‑learn | RFM analytics clustering to identify high-value customer segments |
-| **Movie Recommendation Engine** | Python • Pandas • scikit‑learn | Collaborative filtering model with dynamic streamlit web UI |
-| **Real-Time COVID Dashboard** | Power BI • APIs • Python | Live-updating dashboard using public APIs, visualizing time-series data |
-
-🔗 **Explore all my repos on GitHub →** [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
+- 🎓 Graduate student focused on **Data Science, ML, and Engineering Applications**
+- 💡 Passionate about solving problems with **Data + Code + Cloud**
+- 🛠 Currently building: **[Cocoa Leaf Disease Detection](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)**, **Data Engineering Pipelines**, and **Power BI Dashboards**
+- 🧠 Constantly exploring: **LLMs**, **AutoML**, **Spark**, **Azure Data Factory**, **Prompt Engineering**
+- ✨ Key tools: `Python`, `SQL`, `Power BI`, `PySpark`, `Docker`, `Streamlit`, `MLFlow`
+- 📫 Reach me at: **sejalk300@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Highlight Projects
 
-### Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+| 📌 Project | 🔧 Stack | 💡 Description |
+|-----------|---------|----------------|
+| **Cocoa Leaf Disease Detector** | PyTorch, OpenCV, Streamlit, CNN | Web app for detecting leaf diseases with image uploads |
+| **Power BI Sales Dashboard** | Power BI, DAX, Excel | Interactive dashboard for analyzing sales KPIs, revenue, trends |
+| **PySpark Data Engineering Pipeline** | PySpark, AWS S3, Hadoop | ETL pipeline to ingest, clean, and transform big data from source to warehouse |
+| **Customer Segmentation** | Python, Pandas, ML, RFM | Segmenting customers using RFM analysis and clustering |
+| **COVID-19 API Dashboard** | Python, Power BI, REST API | Live-updating dashboard to track cases, recovery, and trends |
+| **Movie Recommendation Engine** | Python, scikit-learn, Streamlit | Built from scratch using collaborative filtering & visualized via web UI |
+| **ML Model Deployment** | FastAPI, Docker, Heroku | End-to-end ML deployment pipeline for real-time predictions |
 
-### Machine Learning & AI  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### BI & Visualization  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)  
-![Tableau](https://img.shields.io/badge/Tableau-EC4A3F?style=for-the-badge&logo=tableau)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
-
-### Big Data & Cloud  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### Data Tools & DBs  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+🔗 View all my repos: [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
 
 ---
 
-## 🎯 What I’m Up To
+## 💼 Advanced Tech Skills
+
+### 🧠 Data Science / Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)  
+![XGBoost](https://img.shields.io/badge/XGBoost-A01920?style=flat-square)
+
+### 🔍 Data Analytics & Visualization  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+### 🔧 Data Engineering / Big Data  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark)  
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)  
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow)  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop)
+
+### 🗄️ Databases & Cloud  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)  
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
+
+### 🚀 MLOps & DevOps  
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)  
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🧠 Fun Python-y Snippet
 
 ```python
 class SejalKhade:
-    specialties = ["Data Science", "Data Engineering", "Machine Learning", "Power BI", "Cloud"]
-    current_projects = ["Cocoa Leaf Disease Detection", "Sales Analysis Dashboard", "Spark ETL Pipeline"]
-    learning = ["Power BI Advanced", "Apache Spark", "Azure Data Services", "Docker"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome together! 🚀")
+    def __init__(self):
+        self.roles = ['Data Scientist', 'Data Engineer', 'ML Developer']
+        self.tools = ['Python', 'Power BI', 'Spark', 'SQL', 'Docker', 'Azure']
+        self.learning = ['Advanced BI', 'MLOps', 'Prompt Engineering']
+
+    def build(self):
+        return f"Using {', '.join(self.tools)} to solve real-world data challenges."
+
+me = SejalKhade()
+print(me.build())
