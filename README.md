@@ -29,11 +29,8 @@
 |-----------|---------|----------------|
 | **Cocoa Leaf Disease Detector** | PyTorch, OpenCV, Streamlit, CNN | Web app for detecting leaf diseases with image uploads |
 | **Power BI Sales Dashboard** | Power BI, DAX, Excel | Interactive dashboard for analyzing sales KPIs, revenue, trends |
-| **PySpark Data Engineering Pipeline** | PySpark, AWS S3, Hadoop | ETL pipeline to ingest, clean, and transform big data from source to warehouse |
 | **Customer Segmentation** | Python, Pandas, ML, RFM | Segmenting customers using RFM analysis and clustering |
 | **COVID-19 API Dashboard** | Python, Power BI, REST API | Live-updating dashboard to track cases, recovery, and trends |
-| **Movie Recommendation Engine** | Python, scikit-learn, Streamlit | Built from scratch using collaborative filtering & visualized via web UI |
-| **ML Model Deployment** | FastAPI, Docker, Heroku | End-to-end ML deployment pipeline for real-time predictions |
 
 🔗 View all my repos: [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
 
