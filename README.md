@@ -1,86 +1,87 @@
 <div align="center">
+  
+# 👋 Hi, I'm Sejal Khade  
+### Data Scientist | ML Engineer | Data & Cloud Architect  
 
-# 👋 Hi there! I'm Sejal Khade  
-🚀 Aspiring Data Scientist | ML Engineer | Data Engineer | BI Analyst  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=3F7FBF&center=true&vCenter=true&width=700&lines=Bridging+Data+Science+%26+Engineering;Building+ML+Pipelines+&+BI+Insights;Cloud-First+&+MLOps+Advocate;Driven+by+Innovation" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F7FBF&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions;Building+ML-powered+solutions;Visualizing+business+insights;Solving+real-world+problems+with+code" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6&style=for-the-badge)](https://github.com/Sejjjalll)
-[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=GitHub&style=for-the-badge)](https://github.com/Sejjjalll)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6)]  
+[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=github&style=for-the-badge)]  
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450"/>
-</p>
+## 🎨 Visual Vibe
+
+I’m passionate about coding, analytics, and creativity—just like these **interactive coder-girl illustrations** above!
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Graduate student focused on **Data Science, ML, and Engineering Applications**
-- 💡 Passionate about solving problems with **Data + Code + Cloud**
-- 🔭 Currently working on: **[Cocoa Leaf Disease Detection](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)**, **Data Engineering Pipelines**, **BI Dashboards**
-- 🧠 Exploring: **LLMs**, **MLOps**, **Azure Data Factory**, **Prompt Engineering**, **AutoML**
-- 🛠️ Tools I love: `Python`, `Power BI`, `PySpark`, `Docker`, `MLflow`, `Streamlit`
-- 📫 Email me: **sejalk300@gmail.com**
+A versatile **Data Scientist & Cloud Architect** who designs scalable ML systems, orchestrates end-to-end data pipelines, and delivers business-facing BI dashboards. I'm passionate about using LLMs, MLOps, and cloud-native patterns to maximize impact and drive innovation.
 
----
-
-## 🚀 Highlight Projects
-
-| 📌 Project | 🔧 Stack | 💡 Description |
-|-----------|---------|----------------|
-| **Cocoa Leaf Disease Detector** | PyTorch, OpenCV, Streamlit | Detect cocoa leaf diseases via web-based app |
-| **Power BI Sales Dashboard** | Power BI, Excel, DAX | Sales metrics visualized with filters and trends |
-| **PySpark Data Pipeline** | PySpark, AWS S3, Airflow | ETL pipeline with cloud storage & orchestration |
-| **Customer Segmentation** | Pandas, KMeans, Seaborn | Cluster customers via RFM analysis |
-| **COVID-19 API Dashboard** | Python, Power BI | Real-time REST API dashboard |
-| **Movie Recommendation App** | Python, scikit-learn, Streamlit | Collaborative filtering with frontend |
-| **ML Deployment Pipeline** | FastAPI, Docker, Heroku | Real-time predictions with full deployment stack |
-
-🔗 View all my repos → [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
+- 🌱 Currently mastering: **MLFlow**, **Airflow**, **Kubeflow**, **AWS/GCP/Azure**, **Docker + Kubernetes**, **LLM integration**
+- 💡 Advocate for: **Event-driven architecture**, **Data observability**, Infrastructure-as-Code (Terraform/ARM)
+- 📫 Let’s connect: **sejalk300@gmail.com**
 
 ---
 
-## 💼 Advanced Skills
+## 🚀 Core Projects
 
-### 👩‍🔬 Data Science & Machine Learning  
-`Python`, `Pandas`, `scikit-learn`, `XGBoost`, `PyTorch`, `TensorFlow`, `MLflow`, `Optuna`, `Seaborn`, `Matplotlib`
+| Name | Tech Stack | Highlights |
+|------|------------|------------|
+| **Cocoa Leaf Disease Detector** | PyTorch • FastAPI • Streamlit • Docker | From CV model to API container to UI deployment |
+| **Sales Power BI Dashboard** | Power BI • SQL Server • DAX | Enterprise-grade dashboard with KPIs, drill-downs & RLS |
+| **PySpark ETL Pipeline** | PySpark • Hadoop • AWS S3 • Airflow | Production ETL, orchestration, monitoring & failure recovery |
+| **Customer RFM Clustering** | Python • Pandas • MLflow • scikit‑learn | Hyperparameter-tuned RFM segmentation pipeline |
+| **COVID Real-Time Dashboard** | Python • REST API • Power BI DirectQuery | Streaming ingestion + dynamic BI refresh |
+| **Movie Recommender Web App** | Python • scikit‑learn • Streamlit • Docker | DIY collaborative filtering + container deployment |
+| **End-to-End Model Deployment** | FastAPI • Docker • Heroku | Containerized ML model with live web service deployment |
 
-### 📊 Data Analytics & BI  
-`Power BI`, `DAX`, `Excel`, `Tableau`, `SQL Server Reporting Services (SSRS)`, `KPIs`, `RLS`
+🔗 [Explore all my repos](https://github.com/Sejjjalll?tab=repositories)
 
-### 🔧 Data Engineering & Big Data  
-`PySpark`, `Apache Airflow`, `Kafka`, `Hadoop`, `Delta Lake`, `Azure Data Factory`, `Data Lakes`
+---
 
-### ☁️ Cloud & MLOps  
-`AWS (S3, Lambda)`, `Azure`, `Docker`, `FastAPI`, `Heroku`, `MLflow`, `Kubernetes`, `GitHub Actions`, `Terraform`
+## ⚙️ Advanced Skills Matrix
+
+### 🧠 Machine Learning & AI  
+`PyTorch`, `TensorFlow`, `XGBoost`, `Optuna`, `scikit-learn`, LLMs & prompt-based LLM chains
+
+### 🔧 Data Engineering / Big Data  
+`PySpark`, `Kafka`, `Hadoop`, `Delta Lake`, DAG orchestration via `Airflow` and `Kubeflow`, observability with `Prometheus` + `Grafana`
+
+### ☁️ Cloud Infrastructure & DevOps  
+AWS (S3, EC2, ECS, Lambda), Azure Data Factory, GCP (BigQuery), `Docker`, `Kubernetes`, IaC using `Terraform` and `ARM templates`, CI/CD via GitHub Actions
+
+### 📊 BI & Business Analytics  
+Power BI (DAX, row-level security), Tableau, SSIS/SSRS/MDX, embedded analytics
+
+### ⚙️ MLOps & Observability  
+`MLflow`, `TensorBoard`, `Argo`, drift detection, governance & data pipeline lineage
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sejjjalll&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
 
-## 🧠 Fun Python-y Snippet
+## 🤖 Code DNA & Personal Mission
 
 ```python
 class SejalKhade:
-    def __init__(self):
-        self.roles = ['Data Scientist', 'ML Engineer', 'BI Analyst']
-        self.skills = ['Python', 'Spark', 'SQL', 'Docker', 'Power BI']
-        self.learning = ['Prompt Engineering', 'MLOps', 'Cloud Architecture']
+    roles = ['Data Scientist','ML Engineer','Data Engineer','Cloud Architect']
+    tools = ['Python','Spark','SQL','Airflow','Power BI','Docker','K8s','MLflow','Terraform','LLM']
+    focus = ['Scalable ML','BI Insights','Automation','Observability']
 
     def mission(self):
-        return f"Using {', '.join(self.skills)} to unlock insights and deploy real-world AI."
+        return f"Engineering end-to-end data solutions using {', '.join(self.tools)}."
 
 me = SejalKhade()
 print(me.mission())
