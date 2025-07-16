@@ -78,14 +78,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 🧠 Fun Python-y Snippet
 
