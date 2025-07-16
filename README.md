@@ -76,16 +76,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Sejjjalll&show_icons=true&theme=github_dark" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjjalll&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 🧠 Fun Python-y Snippet
 
