@@ -25,14 +25,17 @@
 
 ## 🚀 Highlight Projects
 
-| 📌 Project | 🔧 Stack | 💡 Description |
-|-----------|---------|----------------|
+| 📌 Project | 🔧 Tech Stack | 💡 Description |
+|------------|---------------|----------------|
+| **Sales Analysis Dashboard Excel** | Excel, Pivot Tables, Formulas | Interactive sales dashboard with KPIs and trend analysis in Excel |
+| **Excel HR Analytics** | Excel, Data Cleaning, Visualization | HR dataset analytics with employee performance and attrition insights |
+| **Customer Product Sales Analysis Dashboard** | Power BI, DAX, Data Modeling | Dynamic dashboard analyzing customer purchase behavior and product sales |
+| **Amazon Prime Video Dashboard using Power BI** | Power BI, Data Visualization | Visual dashboard tracking Prime Video content trends and viewership |
+| **Risk Analysis Sublet Website** | Python, Data Analysis | Website project analyzing rental sublet risk factors (based on repo name) |
+| **Heart Disease Prediction using Machine Learning** | Python, scikit-learn, ML | Predictive model for heart disease using medical dataset and ML algorithms |
 | **Cocoa Leaf Disease Detector** | PyTorch, OpenCV, Streamlit, CNN | Web app for detecting leaf diseases with image uploads |
-| **Power BI Sales Dashboard** | Power BI, DAX, Excel | Interactive dashboard for analyzing sales KPIs, revenue, trends |
-| **Customer Segmentation** | Python, Pandas, ML, RFM | Segmenting customers using RFM analysis and clustering |
-| **COVID-19 API Dashboard** | Python, Power BI, REST API | Live-updating dashboard to track cases, recovery, and trends |
 
-🔗 View all my repos: [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
+🔗 View all my repositories: [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
 
 ---
 
