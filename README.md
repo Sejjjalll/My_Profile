@@ -39,7 +39,7 @@ When I’m not working with data, you’ll probably find me exploring new places
 
 ### 👨‍💻 Projects
 Most of my academic and professional projects are private, but you can find selected work on  
-👉 **[My GitHub Profile](https://github.com/)**
+👉 **[My GitHub Profile](https://github.com/Sejjjalll/My_Profile)**
 
 ---
 
