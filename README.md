@@ -1,95 +1,144 @@
-<div align="center">
-  
-# Hi there! I'm Sejal Khade 👋  
-🚀 Aspiring Data Scientist | ML Engineer | Data Engineer | BI Analyst
+<h1 align="center">Hi 👋, I'm Sejal Khade</h1>
+<h3 align="center">
+📊 Data Analyst | Supply Chain & Business Analytics | Turning Data into Decisions
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F7FBF&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Building+ML-powered+solutions;Visualizing+business+insights;Solving+real-world+problems+with+code" alt="Typing SVG" />
+<h4 align="center">
+MS in Data Science @ University of Texas at Arlington • Open to Relocation (USA)
+</h4>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sejjjalll&color=0e75b6&style=for-the-badge)](https://github.com/Sejjjalll)
-[![GitHub followers](https://img.shields.io/github/followers/Sejjjalll?logo=GitHub&style=for-the-badge)](https://github.com/Sejjjalll)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sejallk">
+    <img src="https://img.shields.io/badge/LinkedIn-Sejal%20Khade-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:sejalk300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sejalk300%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Graduate student focused on **Data Science, ML, and Engineering Applications**
-- 💡 Passionate about solving problems with **Data + Code + Cloud**
-- 🛠 Currently building: **[Cocoa Leaf Disease Detection](https://github.com/Sejjjalll/Coco-Leaf-Disease-Dector)**, **Data Engineering Pipelines**, and **Power BI Dashboards**
-- 🧠 Constantly exploring: **LLMs**, **AutoML**, **Spark**, **Azure Data Factory**, **Prompt Engineering**
-- ✨ Key tools: `Python`, `SQL`, `Power BI`, `PySpark`, `Docker`, `Streamlit`, `MLFlow`
-- 📫 Reach me at: **sejalk300@gmail.com**
-
----
-
-## 🚀 Highlight Projects
-
-| 📌 Project | 🔧 Tech Stack | 💡 Description |
-|------------|---------------|----------------|
-| **Sales Analysis Dashboard Excel** | Excel, Pivot Tables, Formulas | Interactive sales dashboard with KPIs and trend analysis in Excel |
-| **Excel HR Analytics** | Excel, Data Cleaning, Visualization | HR dataset analytics with employee performance and attrition insights |
-| **Customer Product Sales Analysis Dashboard** | Power BI, DAX, Data Modeling | Dynamic dashboard analyzing customer purchase behavior and product sales |
-| **Amazon Prime Video Dashboard using Power BI** | Power BI, Data Visualization | Visual dashboard tracking Prime Video content trends and viewership |
-| **Risk Analysis Sublet Website** | Python, Data Analysis | Website project analyzing rental sublet risk factors (based on repo name) |
-| **Heart Disease Prediction using Machine Learning** | Python, scikit-learn, ML | Predictive model for heart disease using medical dataset and ML algorithms |
-| **Cocoa Leaf Disease Detector** | PyTorch, OpenCV, Streamlit, CNN | Web app for detecting leaf diseases with image uploads |
-
-🔗 View all my repositories: [github.com/Sejjjalll?tab=repositories](https://github.com/Sejjjalll?tab=repositories)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sejallk&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## 💼 Advanced Tech Skills
+## 🚀 About Me
 
-### 🧠 Data Science / Machine Learning  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)  
-![XGBoost](https://img.shields.io/badge/XGBoost-A01920?style=flat-square)
+I’m a **Data Analytics graduate student** with hands-on experience in **supply chain optimization, inventory management, and predictive analytics**.  
+I enjoy working with large datasets, building **ETL pipelines**, creating **BI dashboards**, and translating complex data into **actionable business insights** for stakeholders.
 
-### 🔍 Data Analytics & Visualization  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-### 🔧 Data Engineering / Big Data  
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark)  
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)  
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow)  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop)
-
-### 🗄️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)  
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
-
-### 🚀 MLOps & DevOps  
-![MLflow](https://img.shields.io/badge/MLflow-000000?style=flat-square&logo=mlflow)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)  
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+Currently seeking **entry-level to early-career Data Analyst / Data Scientist / Business Analyst roles**.
 
 ---
 
+## 🎓 Education
 
-## 🧠 Fun Python-y Snippet
+- **Master of Science in Data Science**  
+  *University of Texas at Arlington* — *Expected May 2026*
 
-```python
-class SejalKhade:
-    def __init__(self):
-        self.roles = ['Data Scientist', 'Data Engineer', 'ML Developer']
-        self.tools = ['Python', 'Power BI', 'Spark', 'SQL', 'Docker', 'Azure']
-        self.learning = ['Advanced BI', 'MLOps', 'Prompt Engineering']
+- **Bachelor of Engineering in Electronics & Telecommunication**  
+  *Pune University, India* — *May 2022*
 
-    def build(self):
-        return f"Using {', '.join(self.tools)} to solve real-world data challenges."
+---
 
-me = SejalKhade()
-print(me.build())
+## 💼 Experience
+
+### 📌 Data Analytics Student Assistant  
+**Career Development Center, University of Texas at Arlington**  
+*Jul 2025 – Dec 2025*
+
+- Built **8+ Power BI dashboards** using DAX & Power Query to track **3,000+ internships**, reducing manual reporting by **70%**
+- Designed **SQL-based ETL pipelines** consolidating data from **5+ sources**, improving data consistency by **95%**
+- Performed complex analysis on large datasets to support operational decision-making
+- Delivered weekly reports tracking **12+ KPIs** for cross-functional stakeholders
+
+---
+
+### 📌 Data Analytics Intern  
+**ETLHive — Pune, India**  
+*Aug 2023 – Feb 2024*
+
+- Analyzed **50K+ business records** using SQL (MySQL) and Python (Pandas, NumPy)
+- Conducted EDA on customer datasets, uncovering insights that improved retention by **12%**
+- Built automated reporting pipelines with Python & Tableau, reducing report time from **4 hours to 20 minutes**
+- Supported ad-hoc analysis and debugging requests across **3 cross-functional teams**
+
+---
+
+### 📌 Business Analyst Intern  
+**PHN Technology — Pune, India**  
+*Apr 2023 – Jul 2023*
+
+- Analyzed **20K+ records** using Excel & SQL for demand forecasting and inventory optimization (**90% accuracy**)
+- Identified workflow inefficiencies, reducing processing time by **15%**
+- Developed operational dashboards to support supply chain decision-making
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 End-to-End BI & Predictive Analytics for Supply Chain Optimization  
+**Power BI | SQL | Python | Excel**
+
+- Built interactive Power BI dashboards tracking sales, inventory & delivery KPIs across **3 regions**
+- Analyzed **1,000+ delivery logs**, improving on-time delivery from **72% → 86%**
+- Developed sales forecasting models in Python with **90%+ accuracy**
+- Automated ETL pipelines for **10,000+ records**, reducing reporting time by **50%**
+
+---
+
+### 🔹 Customer Behavior Analytics & Segmentation  
+**Python | SQL | Power BI**
+
+- Executed end-to-end analytics workflow from data cleaning to BI visualization
+- Performed **RFM segmentation** to identify high-value customer groups
+- Designed optimized SQL queries to analyze transaction & loyalty patterns
+
+---
+
+### 🔹 Supplier Performance & Material Planning Analytics  
+**SQL | Python | Tableau | Excel**
+
+- Analyzed **500+ supplier records** to identify high-risk suppliers
+- Built Tableau dashboards tracking lead times, quality & delivery KPIs
+- Reduced stockouts by **15%** through inventory optimization analysis
+- Resolved data discrepancies, improving accuracy by **30%**
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Query Languages**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (MySQL, SQL Server)
+
+**Data Visualization & BI**  
+- Power BI (DAX, Power Query)  
+- Tableau  
+- Excel (Pivot Tables, XLOOKUP, VLOOKUP)
+
+**Analytics & Statistics**  
+- Exploratory Data Analysis (EDA)  
+- Regression Analysis  
+- A/B Testing  
+- Predictive Analytics
+
+**Supply Chain & Operations**  
+- Inventory Optimization  
+- Demand Forecasting  
+- Material Planning  
+- MRP / ERP Systems (SAP)
+
+**Tools & Platforms**  
+- Git, GitHub, Jira  
+- Jupyter Notebook  
+- Agile Methodologies
+
+---
+
+## 📫 Let’s Connect!
+
+- 💼 LinkedIn: [linkedin.com/in/sejallk](https://www.linkedin.com/in/sejallk)
+- 📧 Email: **sejalk300@gmail.com**
+
+⭐ If you like my work, feel free to explore my repositories and connect!
