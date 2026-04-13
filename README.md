@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📍 Arlington, TX &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 M.S. in Data Science @ UTA &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to U.S. Data Analyst roles
+  🎓 M.S. in Data Science Candidate &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to U.S. Data Analyst roles
 </p>
 
 ---
@@ -47,7 +47,7 @@ A few things I’m proud of:
 ## Featured Projects
 
 ### ⚡ Energy Infrastructure Analytics App
-Built a geospatial pipeline ranking **357 DFW energy assets** by solar potential, household reach, and EV opportunity using **Census ACS5**, **NREL APIs**, and **GeoPandas**.  
+Built a geospatial pipeline ranking **357 energy assets** by solar potential, household reach, and EV opportunity using **Census ACS5**, **NREL APIs**, and **GeoPandas**.  
 Created ranked CSVs, GeoJSON outputs, an interactive Folium map, and dashboard-ready visuals.
 
 ### 🌩️ Power Outage Risk Analysis
@@ -62,7 +62,7 @@ Found a **23% on-time gap** and showed that isolated fixes had limited impact, p
 
 ## Experience Snapshot
 
-### Data Analyst Intern — University of Texas at Arlington
+### Data Analyst Intern — Career Development Center
 - delivered **12 operational KPIs** to cross-functional teams by consolidating **500K+ records** from HubSpot CRM and Handshake into PostgreSQL
 - built Power BI dashboards with auto-refresh and saved **10+ hours per week**
 - ran cohort analysis across **8 programs** and identified **3 key drop-off stages**
