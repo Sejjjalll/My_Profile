@@ -1,125 +1,136 @@
-<h1 align="center">Hi, I'm Sejal Khade 👋</h1>
-<p align="center">
-  Data Analyst focused on SQL, Python, ETL pipelines, dashboards, and business decision support
-</p>
+# Hi, I'm Sejal Khade 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sejallk">LinkedIn</a> •
-  <a href="mailto:sejalk300@gmail.com">Email</a> •
-  <a href="https://github.com/Sejjjalll">GitHub</a>
-</p>
+**Data Analyst | SQL • Python • Power BI • Tableau**  
+I build analytics workflows, dashboards, and data products that help teams make better decisions.
+
+📍 Arlington, TX  
+🎓 M.S. in Data Science, University of Texas at Arlington  
+💼 Open to **Data Analyst / Business Analyst / Analytics Engineer** roles in the U.S.
 
 ---
 
 ## About Me
 
-I'm a Data Analyst with 2+ years of experience working with SQL, Python, Power BI, Tableau, CRM data, and KPI reporting.
+I’m a data analyst with 2+ years of experience working with SQL pipelines, dashboards, KPI reporting, and business data analysis across university and business teams.
 
-I enjoy building analytics workflows that turn raw operational data into clear business insights. My work has included ETL pipelines, reporting automation, cohort analysis, dashboard development, and identifying process gaps that improve decision-making.
+My work focuses on:
+- building ETL / ELT workflows
+- cleaning and transforming messy data
+- turning operational and CRM data into decision-ready dashboards
+- identifying process gaps, churn risks, and performance bottlenecks
+- explaining technical findings clearly to non-technical stakeholders
 
-Currently, I'm completing my **M.S. in Data Science at the University of Texas at Arlington** and actively seeking **Data Analyst / Business Analyst / BI Analyst** opportunities in the U.S.
+I enjoy working at the intersection of **analytics, business impact, and storytelling with data**.
 
 ---
 
-## What I Bring
+## What I Work With
 
-- SQL pipelines and data transformation for reporting
-- Dashboard development in Power BI and Tableau
-- Python analysis using Pandas, SciPy, scikit-learn, and visualization libraries
-- KPI tracking, cohort analysis, root cause analysis, and forecasting
-- Strong communication with non-technical stakeholders
+**Languages & Analytics**
+- SQL
+- Python
+- Pandas, NumPy, SciPy, Scikit-learn
+- Statistical analysis, hypothesis testing, cohort analysis
+
+**BI & Visualization**
+- Power BI
+- Tableau
+- Excel
+- Plotly
+- Folium
+- GeoPandas
+
+**Data Engineering / Platforms**
+- PostgreSQL
+- MySQL
+- BigQuery
+- AWS S3
+- ETL / ELT
+- Airflow
+- Git & GitHub
 
 ---
 
 ## Featured Projects
 
 ### 1) Power Outage Risk Analysis
-**Python, Pandas, Plotly, EIA-861, NOAA**
+Analyzed utility reliability and NOAA storm records for 3,000+ U.S. utilities to identify higher-risk states using SAIDI/SAIFI metrics. Built automated workflows and visual analytics to highlight regions where outage performance was worse than storm exposure alone would suggest.
 
-- Combined utility reliability data with NOAA storm records for 3,000+ U.S. utilities
-- Built state-level risk rankings using SAIDI and SAIFI thresholds
-- Highlighted states where outage performance was worse than storm exposure alone would suggest
-
-**What this shows:** public data analysis, API/data integration, risk scoring, and visual storytelling
-
-> Repo: `power-outage-risk-analysis`
+**Highlights**
+- utility + weather data integration
+- automated Python workflow
+- state-level risk ranking
+- dashboard-ready outputs
 
 ---
 
 ### 2) Energy Infrastructure Analytics App
-**Python, GeoPandas, Folium, Plotly, Census API, NREL API**
+Built a geospatial analytics pipeline ranking 357 DFW energy assets using solar potential, household reach, and EV opportunity. Produced ranked outputs in CSV, GeoJSON, interactive maps, and dashboards.
 
-- Ranked 357 DFW energy assets by solar potential, household reach, and EV opportunity
-- Built a weighted scoring model and generated CSV, GeoJSON, interactive map, and dashboard outputs
-- Combined geospatial analysis with decision-focused scoring
-
-**What this shows:** geospatial analytics, APIs, product thinking, and end-to-end project execution
-
-> Repo: `energy-infrastructure-analytics-app`
+**Highlights**
+- GeoPandas + Folium + Plotly
+- API-driven data workflows
+- weighted scoring model
+- location intelligence for infrastructure planning
 
 ---
 
 ### 3) Delivery Insights: Identifying Drivers of Delays
-**Python, Pandas, SciPy, scikit-learn, SQL, Tableau**
+Analyzed ~197K delivery records using statistical testing, SQL, and logistic regression to identify structural drivers of late deliveries across markets.
 
-- Analyzed ~197K delivery records to identify drivers of late deliveries
-- Found a 23% on-time performance gap across markets
-- Used statistical testing and logistic regression to show the problem was structural, not single-factor
-
-**What this shows:** business problem solving, statistical analysis, experimentation mindset, and stakeholder-ready insights
-
-> Repo: `delivery-delay-insights`
+**Highlights**
+- root-cause analysis
+- statistical testing
+- regression modeling
+- business recommendations for operations improvement
 
 ---
 
-## Professional Experience Highlights
+## Experience Snapshot
 
-### Data Analyst Intern — Career Development Center, UT Arlington
-- Built ETL workflows consolidating 500K+ records from Handshake and HubSpot CRM into PostgreSQL
+### Data Analyst Intern — University of Texas at Arlington
+- Built ETL workflows consolidating 500K+ Handshake and HubSpot CRM records into PostgreSQL
 - Created Power BI and Excel dashboards tracking 12 KPIs
 - Reduced manual reporting by 10+ hours per week
-- Investigated and fixed a data quality issue that inflated a KPI by 15%
+- Identified engagement drop-off stages across 8 programs and supported strategy improvements
 
 ### Data Analyst — ETLHive
 - Identified a $500K revenue gap through SQL and Tableau analysis
-- Built Python-based customer segmentation for churn analysis
-- Automated weekly reporting, reducing turnaround from 4 hours to 20 minutes
+- Segmented customer cohorts in Python to identify churn risk
+- Automated weekly reporting, reducing turnaround time from 4 hours to 20 minutes
 
 ---
 
-## Tech Stack
+## What Makes My Work Different
 
-**Languages & Analysis**  
-SQL, Python, Pandas, NumPy, SciPy, scikit-learn
+I like projects that combine:
+- strong SQL foundations
+- real business questions
+- measurable outcomes
+- clear visual storytelling
 
-**BI & Visualization**  
-Power BI, Tableau, Excel, Plotly, Matplotlib
-
-**Data Engineering & Databases**  
-PostgreSQL, MySQL, BigQuery, ETL/ELT, Data Modeling, AWS S3, Airflow
-
-**Other Tools**  
-Git, GitHub, Jira, Flask, Streamlit, GeoPandas, Folium
-
----
-
-## What I'm Looking For
-
-I'm looking for opportunities where I can help teams:
-- build reliable reporting pipelines
-- create dashboards that drive decisions
-- analyze product, operations, or customer data
-- translate technical findings into business actions
-
-Open to:
-- Data Analyst
-- Business Analyst
-- BI Analyst
-- Product Analyst
+I’m especially interested in roles involving:
+- product analytics
+- business intelligence
+- operational analytics
+- data quality and reporting automation
+- decision support for cross-functional teams
 
 ---
 
-## Let's Connect
+## Currently Building
 
-- LinkedIn: https://www.linkedin.com/in/sejallk
-- Email: sejalk300@gmail.com
+- polished case-study style analytics repositories
+- dashboard-driven portfolio projects
+- end-to-end data workflows with business impact
+- recruiter-friendly GitHub documentation
+
+---
+
+## Let’s Connect
+
+- LinkedIn: [Add your LinkedIn]
+- Portfolio: [Add your portfolio]
+- Email: [Add your email]
+
+Thanks for visiting my profile.
