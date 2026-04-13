@@ -1,129 +1,117 @@
-<h1 align="center">Hi, I'm Sejal Khade 👋</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Tableau</h3>
+<h1 align="center">Hi, I'm Sejal Khade ✨</h1>
 
 <p align="center">
-  Turning raw data into business decisions, dashboards, and scalable reporting workflows.
+  <b>Data Analyst | SQL • Python • Power BI • Tableau</b>
 </p>
 
 <p align="center">
-  📍 Arlington, TX &nbsp; | &nbsp; 🎓 M.S. in Data Science @ UTA &nbsp; | &nbsp; 💼 Open to U.S. Data Analyst roles
+  I build dashboards, analytics workflows, and decision-ready insights from messy data.
+</p>
+
+<p align="center">
+  📍 Arlington, TX &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 M.S. in Data Science @ UTA &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to U.S. Data Analyst roles
 </p>
 
 ---
 
 ## About Me
 
-I’m a Data Analyst with 2+ years of experience working with SQL, Python, dashboards, ETL workflows, KPI tracking, and operational/CRM data.
+I’m a data analyst with 2+ years of experience working with SQL, Python, dashboards, experimentation, and business analysis.
 
-My work focuses on building analytics solutions that do more than look good — they help teams answer real business questions, reduce manual effort, improve reporting accuracy, and make faster decisions.
+Most of my work sits at the intersection of **data, business decisions, and clear storytelling**. I enjoy taking raw operational or product data, turning it into something structured, and using it to answer practical questions — where teams are losing time, where revenue is leaking, what customers are likely to do next, and what leaders should prioritize.
 
-I enjoy combining:
-- **SQL + Python**
-- **dashboard storytelling**
-- **business process understanding**
-- **decision-focused analytics**
-
----
-
-## What I Bring
-
-- Built ETL workflows for **500K+ records** from CRM and operational sources
-- Created dashboards tracking **12 KPIs** across employer, student, and application data
-- Reduced manual reporting by **10+ hours/week**
-- Identified a **$500K revenue gap** through SQL and Tableau analysis
-- Improved reporting speed from **4 hours to 20 minutes** through Python automation
-- Used cohort analysis, statistical methods, and root-cause analysis to uncover performance gaps
+A few things I’m proud of:
+- found a **$500K revenue gap** through SQL and Tableau analysis
+- reduced reporting time by **70%** through automation
+- built KPI dashboards on **500K+ records**
+- helped surface drop-off points, churn risk, and operational bottlenecks that led to real process changes
 
 ---
 
-## Tech Stack
+## What I Work With
 
-**Languages & Analytics**  
-SQL, Python, Pandas, NumPy, SciPy, Scikit-learn
+**Languages & Analysis**  
+`Python` `SQL` `R (basic)` `Pandas` `NumPy` `SciPy` `Scikit-learn`
 
 **BI & Visualization**  
-Power BI, Tableau, Excel, Plotly, Folium, GeoPandas
+`Power BI` `Tableau` `Excel` `Plotly` `Folium`
 
-**Databases & Data Workflows**  
-PostgreSQL, MySQL, BigQuery, ETL/ELT, Data Modeling, AWS S3, Airflow
+**Data & Platforms**  
+`PostgreSQL` `MySQL` `BigQuery` `AWS` `Airflow` `Git` `GitHub`
 
-**Analytics Skills**  
-KPI Reporting, Cohort Analysis, A/B Testing, Hypothesis Testing, Forecasting, Root Cause Analysis, Regression
-
-**Tools**  
-Git, GitHub, Jira, Agile/Scrum
+**Core Strengths**  
+`KPI Development` `A/B Testing` `Cohort Analysis` `Root Cause Analysis` `Causal Analysis` `Forecasting` `Dashboarding` `ETL/ELT`
 
 ---
 
 ## Featured Projects
 
-### ⚡ Power Outage Risk Analysis
-Analyzed utility reliability and NOAA storm data for **3,000+ U.S. utilities** to identify high-risk regions using SAIDI/SAIFI-based performance thresholds.
+### ⚡ Energy Infrastructure Analytics App
+Built a geospatial pipeline ranking **357 DFW energy assets** by solar potential, household reach, and EV opportunity using **Census ACS5**, **NREL APIs**, and **GeoPandas**.  
+Created ranked CSVs, GeoJSON outputs, an interactive Folium map, and dashboard-ready visuals.
 
-**Highlights**
-- integrated utility + weather data
-- built automated Python workflows
-- created state-level risk rankings
-- visualized outage vulnerability beyond storm exposure alone
-
----
-
-### 🗺️ Energy Infrastructure Analytics App
-Built a geospatial analytics pipeline ranking **357 DFW energy assets** using solar potential, household reach, and EV opportunity with Census and NREL APIs.
-
-**Highlights**
-- geospatial analysis with GeoPandas
-- interactive outputs in Folium and Plotly
-- weighted scoring model for infrastructure prioritization
-- produced CSV, GeoJSON, map, and dashboard outputs
-
----
+### 🌩️ Power Outage Risk Analysis
+Combined **EIA-861** utility reliability data with **NOAA** storm records for **3,000+ U.S. utilities** to identify higher-risk regions using **SAIDI** and **SAIFI**.  
+Built state-level risk views and highlighted **4 states** where outage performance appeared worse than storm exposure alone would suggest.
 
 ### 🚚 Delivery Insights: Identifying Drivers of Delays
-Analyzed **~197K delivery records** using SQL, statistical testing, and logistic regression to understand the structural causes of delivery delays across markets.
-
-**Highlights**
-- uncovered a **23% on-time performance gap**
-- linked delays to supply-demand imbalance and peak-hour congestion
-- evaluated interventions and showed the issue required multi-factor solutions
+Analyzed **197K delivery records** using statistical testing and logistic regression to understand what was driving late deliveries.  
+Found a **23% on-time gap** and showed that isolated fixes had limited impact, pointing to a deeper multi-factor operational issue.
 
 ---
 
 ## Experience Snapshot
 
 ### Data Analyst Intern — University of Texas at Arlington
-- Built ETL workflows combining Handshake + HubSpot CRM data into PostgreSQL
-- Developed Power BI and Excel dashboards for leadership reporting
-- Investigated and corrected a KPI inflation issue caused by schema mismatch
-- Supported program teams with cohort and engagement analysis across 8 programs
+- delivered **12 operational KPIs** to cross-functional teams by consolidating **500K+ records** from HubSpot CRM and Handshake into PostgreSQL
+- built Power BI dashboards with auto-refresh and saved **10+ hours per week**
+- ran cohort analysis across **8 programs** and identified **3 key drop-off stages**
+- designed and analyzed controlled experiments that led to policy changes
+- fixed a source schema issue that was inflating a KPI by **15%**
 
 ### Data Analyst — ETLHive
-- Analyzed 50K+ records across 15 product categories
-- Identified a $500K revenue gap influencing pricing strategy
-- Automated weekly reporting pipelines in Python
-- Built customer churn segmentation logic for better intervention timing
+- surfaced a **$500K revenue gap** across **50K+ records** and **15 product categories**
+- built churn segmentation in Python and helped drive a **12% churn reduction**
+- automated weekly reporting and reduced turnaround time from **4 hours to 20 minutes**
+
+### Business Analyst Intern — PHN Technology
+- analyzed **20K+ records** to identify the step behind **60% of process delays**
+- supported process improvements that reduced turnaround from **48 hours to 41 hours**
 
 ---
 
 ## What I’m Looking For
 
-I’m currently focused on opportunities in:
-- Data Analytics
-- Business Intelligence
-- Product / Operations Analytics
-- Reporting Automation
-- Analytics Engineering
+I’m especially interested in roles where analytics directly improves:
+- business decisions
+- customer outcomes
+- reporting quality
+- process efficiency
+- operational visibility
 
-I’m especially interested in roles where analytics is used to improve decisions, reporting quality, process efficiency, and customer outcomes.
+The kind of work I enjoy most includes **product analytics, business intelligence, reporting automation, experimentation, and stakeholder-facing analysis**.
+
+---
+
+## A Little More About My Style
+
+I like projects that are:
+- practical
+- measurable
+- well-structured
+- visually clear
+- easy for non-technical teams to use
+
+Good analytics should do more than answer a question once — it should make the next decision easier.
 
 ---
 
 ## Connect With Me
 
+- **Email:** sejalk300@gmail.com
 - **LinkedIn:** [linkedin.com/in/sejallk](https://linkedin.com/in/sejallk)
 - **GitHub:** [github.com/Sejjjalll](https://github.com/Sejjjalll)
-- **Email:** sejalk300@gmail.com
 
 ---
 
-<p align="center"><i>Clean data. Clear thinking. Useful insights.</i></p>
+<p align="center"><i>Thanks for visiting my profile ✨</i></p>
